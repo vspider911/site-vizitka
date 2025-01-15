@@ -273,3 +273,25 @@ cursor: pointer;
     align-items: center;
     justify-content: space-evenly;
 }
+.course-category{
+    font-size: 13px;
+    letter-spacing: 2px;
+    color: #bababa;
+    font-weight: 400;
+    margin: 18px 0;
+}
+.course-title{
+    font-size: 35px;
+    font-weight: bold;
+    letter-spacing: 0.3;
+    color: #1A1A1A;
+    margin-bottom: 20px;
+}
+.course-desc{
+    font-size: 16px;
+    font-weight: 400;
+    color: #767676;
+    line-height: 1.7;
+letter-spacing: 0.5px;
+}
+.img-card-2{background-image: url(img/card-2.png);}
